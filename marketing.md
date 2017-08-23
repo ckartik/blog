@@ -1,4 +1,4 @@
-# Marketing 
+# Marketing
 
 ## _Overview_
 
@@ -119,14 +119,13 @@ These are a set of **controllable** activities that a firm can utilise to respon
 1. Sharing of information across departments and even firms about the customers or even different firms all together. These are normally firms that help in the supply chain, these could be manufacturers and transportation companies.
    1. Relevant start-up example: One easy way to create this value is to exchange the information between business, if one business deals with acquiring a certain aspect of a data set, and a respective firm acquires, the two start-ups will often share this information, as the collective rational database is much more valuable and effective in helping them manage value creation for their customers. 
 2. Make every attempt to even out their customers’ benefits and costs
-3. third, they concentrate on building relationships with customers
-   Sharing Information
-4. marketers share info about customers and competitors that has been collected through customer relationship management, and integrate it across the firm’s various departments
-   Balancing Benefits with Costs
-5. marketers constantly measure the benefits that customers perceive against the cost of their offering
-6. they use available customer data to find opportunities in which they can better satisfy their customers’ needs and in turn develop long-term loyalties
+3.  Concentrate on building relationships with customers
+   marketers share info about customers and competitors that has been collected through customer relationship management, and integrate it across the firm’s various departments
+4. Balancing Benefits with Costs
+5. Marketers constantly measure the benefits that customers perceive against the cost of their offering
+6. Marketers available customer data to find opportunities in which they can better satisfy their customers’ needs and in turn develop long-term loyalties
    Building Relationships with Customers
-7. marketers have begun to realize that they need to think about their customer orientation in terms of relationships rather than transactions
+7. Marketers have begun to realize that they need to think about their customer orientation in terms of relationships rather than transactions
 
 Transactional Orientation – regards the buyer-seller relationship as a series of individual transactions, so anything that happened before or after the transaction is of little importance
 
