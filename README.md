@@ -1,6 +1,12 @@
-# Hi there, welcome to my blog!
+# Hi, my name is Kartik!
 
-This is a place where I write about some of the cool technologies and business concepts. I try to stay objective and keep my opinions out of it! :\)
+I founded a company on 2017, and we call ourselves PComm!
 
-Enjoy!
+Our mission is to bridge the gap that exists between pharmaceutical companies access to the right patients for clinical trials, and a patients access to the right trials for them.
+
+I have outlined some of the business concepts I've learned along the way, and some of the cool technologies I've learned along the way!
+
+Cheers
+
+
 
