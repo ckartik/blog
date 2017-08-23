@@ -70,6 +70,13 @@ These are a set of **controllable** activities that a firm can utilise to respon
 
   * Public relations
 
-* 
+* **Place: **_**Deals with delivery of value.**_
+
+  * Marketing channels
+
+  * Distribution intensity
+
+  * Location \(i.e Retailer, Online\)
+
 
 
