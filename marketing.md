@@ -62,7 +62,14 @@ These are a set of **controllable** activities that a firm can utilise to respon
 
 * **Promotion: **_**Deals with communicating the value.**_
 
-  * 
+  * Advertising
 
+  * Sales promotion
+
+  * Personal selling
+
+  * Public relations
+
+* 
 
 
