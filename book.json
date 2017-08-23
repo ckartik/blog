@@ -12,7 +12,7 @@
                     "lang": "go",
                     "name": "Go"
                 }
-            ]
+            ],
             "styles": {
                 "website": "./website.css"
             }
