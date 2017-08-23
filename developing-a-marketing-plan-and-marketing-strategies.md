@@ -1,4 +1,4 @@
-# How digital media is changing the way pharmaceutical companies do marketing
+# How Digital Media Is Changing The Way Pharm Does Marketing
 
 The single largest impact that the digital world has had is the mixed blessing dubbed the **digitally aware patient**.
 
