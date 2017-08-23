@@ -26,5 +26,7 @@ More importantly, however this is a group of customers with the two following ch
 * A shown interest in the product.
 * An ability to buy the product.
 
+#### What is the Marketing Mix \(The 4 Ps\)?
 
+These are a set of **controllable** activities that a firm can utilise to respond to the needs of there customer segment.
 
