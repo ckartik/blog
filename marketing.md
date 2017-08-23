@@ -44,7 +44,9 @@ These are a set of **controllable** activities that a firm can utilise to respon
 
   * Warranty
 
-* Price: 
+* **Price: **_**Deals with the transaction of value.**_
+
+  * 
 
 
 
