@@ -30,6 +30,9 @@ More importantly, however this is a group of **customers** **with** the two **fo
 
 These are a set of **controllable** activities that a firm can utilise to respond to the needs of there customer segment. The following list constitues the 4 Ps:
 
-* 
+* **Product: **_**Deals with the creation of value**_
+
+  * 
+
 
 

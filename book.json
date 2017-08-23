@@ -15,9 +15,8 @@
             ]
         }
     }
-}
-{
     "styles": {
         "website": "website.css"
     }
+
 }
