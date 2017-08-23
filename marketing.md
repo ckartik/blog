@@ -131,7 +131,7 @@ These are a set of **controllable** activities that a firm can utilise to respon
 
 Marketers have begun to realize that they need to think about their customer orientation in terms of relationships rather than transactions
 
-**Transactional Orientation: **_**regards the buyer-seller relationship as a series of individual transactions, so anything that happened before or after the transaction is of little importance**_
+**Transactional Orientation: **_**regards the buyer-seller relationship as a series of individual transactions, so anything that happened before or after the transaction is of little importance.**_
 
 * used car sales – buyer wants lowest price, seller wants highest price, likely won’t do business again
   Relational Orientation – a method of building a relationship with customers based on the philosophy that buyers and sellers should develop a long-term relationship
