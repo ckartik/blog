@@ -16,3 +16,8 @@
         }
     }
 }
+{
+    "styles": {
+        "website": "website.css"
+    }
+}
