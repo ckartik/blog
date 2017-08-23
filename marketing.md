@@ -131,10 +131,16 @@ These are a set of **controllable** activities that a firm can utilise to respon
 
 Marketers have begun to realize that they need to think about their customer orientation in terms of relationships rather than transactions
 
-**Transactional Orientation: **_**regards the buyer-seller relationship as a series of individual transactions, so anything that happened before or after the transaction is of little importance.**_
+##### **Transactional Orientation:**
+
+R_**egards the buyer-seller relationship as a series of individual transactions, so anything that happened before or after the transaction is of little importance.**_
 
 * used car sales – buyer wants lowest price, seller wants highest price, likely won’t do business again
-  Relational Orientation – a method of building a relationship with customers based on the philosophy that buyers and sellers should develop a long-term relationship
+
+##### Relational Orientation:
+
+ – a method of building a relationship with customers based on the philosophy that buyers and sellers should develop a long-term relationship
+
 * UPS – works with shippers to develop efficient transportation solutions – develop a long-term relationship after they became part of the fabric of the shippers’ organizations
   Customer Relationship Management \(CRM\) – a business philosophy and set of strategies, program and systems that focus on identifying and building loyalty among the firm’s most valued customers
 * collect info about their customers’ needs and use that info to target their best customers with the products, services and special promotions that appear most important to them
