@@ -32,7 +32,19 @@ These are a set of **controllable** activities that a firm can utilise to respon
 
 * **Product: **_**Deals with the creation of value.**_
 
-  * 
+  * These activities pertain to products/services.
+
+  * The brand associated with the product/service.
+
+  * The size of the product or duration of service.
+
+  * The features present in the offering.
+
+  * The packaging/quality of service.
+
+  * Warranty
+
+* Price: 
 
 
 
