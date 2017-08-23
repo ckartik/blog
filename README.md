@@ -1,3 +1,8 @@
-# My Awesome API
+# Hi there, welcome to my blog!
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is a place where I write about some of the cool technologies that I'm working with and what I think about them. I try to stay object and keep my opinions out of it! :\) 
+
+
+
+Enjoy!
+
