@@ -79,4 +79,34 @@ These are a set of **controllable** activities that a firm can utilise to respon
   * Location \(i.e Retailer, Online\)
 
 
+B2C – business to consumers – the process in which businesses sell to consumers
+B2B – business to business – the process of selling merchandise or services from one business to another
+C2C – consumer to consumer – the process in which consumers sell to other consumers
+Production-Oriented Era – beginning of 20th century – firms believed that a good product would sell itself
+Sales-Oriented Era – 1920 to 1950 – manufacturers had the capacity to produce more than customers really wanted – firms depended on heavy doses of personal selling and advertising
+Market-Oriented Era – manufacturers turned from focusing on the war effort and toward consumer products – consumers again had choices so manufacturers and retailers began to focus on what consumers wanted and needed before they designed and attempted to sell their products/services
+Value-Based Marketing Era – firms attempt to discover and satisfy their customers’ needs and wants
+- to compete, they would have to give their customers greater value than their competitors
+Value – reflects the relationship of benefits to costs, or what the consumer gets for what he or she gives
+Value-Based Marketing – marketing that focuses on providing customers with benefits that far exceed the cost (money, time, effort) of acquiring and using a product or service while providing a reasonable return to the firm
+How do firms become value driven?
+- first, they share information about their customers and competitors across their own organization and with other firms that might be involved in getting the product or service to the marketplace, such as manufacturers and transportation companies
+- second, they strive to balance their customers’ benefits and costs
+- third, they concentrate on building relationships with customers
+Sharing Information
+- marketers share info about customers and competitors that has been collected through customer relationship management, and integrate it across the firm’s various departments
+Balancing Benefits with Costs
+- marketers constantly measure the benefits that customers perceive against the cost of their offering
+- they use available customer data to find opportunities in which they can better satisfy their customers’ needs and in turn develop long-term loyalties
+Building Relationships with Customers
+- marketers have begun to realize that they need to think about their customer orientation in terms of relationships rather than transactions
+
+Transactional Orientation – regards the buyer-seller relationship as a series of individual transactions, so anything that happened before or after the transaction is of little importance
+- used car sales – buyer wants lowest price, seller wants highest price, likely won’t do business again
+Relational Orientation – a method of building a relationship with customers based on the philosophy that buyers and sellers should develop a long-term relationship
+- UPS – works with shippers to develop efficient transportation solutions – develop a long-term relationship after they became part of the fabric of the shippers’ organizations
+Customer Relationship Management (CRM) – a business philosophy and set of strategies, program and systems that focus on identifying and building loyalty among the firm’s most valued customers
+- collect info about their customers’ needs and use that info to target their best customers with the products, services and special promotions that appear most important to them
+Supply Chain – the group of firms that make and deliver a given set of goods and services
+
 
