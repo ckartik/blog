@@ -142,9 +142,14 @@ Marketers have begun to realize that they need to think about their customer ori
 – a method of building a relationship with customers based on the philosophy that buyers and sellers should develop a long-term relationship
 
 * UPS – works with shippers to develop efficient transportation solutions – develop a long-term relationship after they became part of the fabric of the shippers’ organizations
-  Customer Relationship Management \(CRM\) – a business philosophy and set of strategies, program and systems that focus on identifying and building loyalty among the firm’s most valued customers
+
+##### **Customer Relationship Management \(CRM\):** 
+
+_**A business philosophy and set of strategies, program and systems that focus on identifying and building loyalty among the firm’s most valued customers**_
+
 * collect info about their customers’ needs and use that info to target their best customers with the products, services and special promotions that appear most important to them
-  Supply Chain – the group of firms that make and deliver a given set of goods and services
+
+Supply Chain is the group of firms that make and deliver a given set of goods and services and add value to the end product.
 
 
 
