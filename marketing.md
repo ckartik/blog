@@ -58,7 +58,11 @@ These are a set of **controllable** activities that a firm can utilise to respon
 
   * Credit terms.
 
-  * This aspect of the 4 Ps should be dealt with due diligence from the accounting department. As noted in management accounting, giving discounts can have a determinate impact on budgeting and thus the accurate pricing of the product if not recorded correctly.
+  * _**This aspect of the 4 Ps should be dealt with due diligence from the accounting department. As noted in management accounting, giving discounts can have a determinate impact on budgeting and thus the accurate pricing of the product if not recorded correctly.**_
+
+* **Promotion: **_**Deals with communicating the value.**_
+
+  * 
 
 
 
