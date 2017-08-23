@@ -19,14 +19,17 @@ A marketing plan is a written document that outlines an analysis of the followin
 
 #### What is a Target Market?
 
-From the firms perspective: This is a customer segment or group which the firm is interested in selling too.
+From the firms perspective: This is a customer segment or group which the** firm is interested in** selling too.
 
-More importantly, however this is a group of customers with the two following characteristics:
+More importantly, however this is a group of **customers** **with** the two **following characteristics**:
 
-* A shown interest in the product.
-* An ability to buy the product.
+* A shown **interest** in the product.
+* An **ability** to buy the product.
 
 #### What is the Marketing Mix \(The 4 Ps\)?
 
-These are a set of **controllable** activities that a firm can utilise to respond to the needs of there customer segment.
+These are a set of **controllable** activities that a firm can utilise to respond to the needs of there customer segment. The following list constitues the 4 Ps:
+
+* 
+
 
