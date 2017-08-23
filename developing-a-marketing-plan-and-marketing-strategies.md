@@ -1,4 +1,6 @@
-# Developing a Marketing Plan and Marketing Strategy
+# How digital media is changing the way pharmaceutical companies do marketing
+
+
 
 
 
