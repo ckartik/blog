@@ -23,10 +23,8 @@ From the firms perspective: This is a customer segment or group which the firm i
 
 More importantly, however this is a group of customers with the two following characteristics:
 
-* A shown interest in the product.
-* An ability to buy the product.
-
-
+* **A shown interest in the product.**
+* **An ability to buy the product.**
 
 
 
