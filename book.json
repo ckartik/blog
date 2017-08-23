@@ -14,7 +14,7 @@
                 }
             ],
             "styles": {
-                "website": "./website.css"
+                "website": "styles/website.css"
             }
         }
     }
