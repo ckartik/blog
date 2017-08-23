@@ -46,6 +46,18 @@ These are a set of **controllable** activities that a firm can utilise to respon
 
 * **Price: **_**Deals with the transaction of value.**_
 
+  * List Price
+
+  * Discounts
+
+  * allowances
+
+  * costs
+
+  * payment period
+
+  * credit terms.
+
   * 
 
 
