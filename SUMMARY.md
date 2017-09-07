@@ -4,6 +4,7 @@
 
 * [Welcome](README.md)
 * [Dart Null Aware Operators](methods.md)
+* [Human Resource Management Introduction ](human-resource-management-introduction.md)
 
 ## Pharma Marketing
 
