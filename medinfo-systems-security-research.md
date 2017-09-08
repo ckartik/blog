@@ -19,29 +19,7 @@ _**From a 3000 ft view of these notes, we will deal with 3 main ideas when desig
 
 2. **Threat Model** - When we create a security strategy, we need to start with a assessment of the adversary, without this we cannot focus our resources effectively. Thus, having the right idea of the capabilities of the adversary can allow an organisation or individual to plan out effective measures to dealing with vulnerabilities and reduce the threat surface. For example, if you assumed unrealistic assumptions, \(like assuming the adversary has the ability to physically access your data storage site, or your computer\) can allow for useless allocation of resources and unnecessary overhead.
 
-3. **Mechanism** - 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+3. **Mechanism** -
 
 
 
