@@ -17,5 +17,31 @@ _**From a 3000 ft view of these notes, we will deal with 3 main ideas when desig
 
    3. Possibly the most important part of a medical information system, you will want to keep the information available at all times, this can be as simple as storing medical information in a decentralised manner, many big data architectures have this feature built into it. For example, Hadoop uses a slave node architecture as part of its HDFS which allows duplicated information to be stored on multiple racks. \(**Availability**\)
 
+2. **Threat Model** - When we create a security strategy, we need to start with a assessment of the adversary, without this we cannot focus our resources effectively. Thus, having the right idea of the capabilities of the adversary can allow an organisation or individual to plan out effective measures to dealing with vulnerabilities and reduce the threat surface. For example, if you assumed unrealistic assumptions, \(like assuming the adversary has the ability to physically access your data storage site, or your computer\) can allow for useless allocation of resources and unnecessary overhead.
+
+3. **Mechanism** - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
