@@ -19,7 +19,21 @@ _**From a 3000 ft view of these notes, we will deal with 3 main ideas when desig
 
 2. **Threat Model** - When we create a security strategy, we need to start with a assessment of the adversary, without this we cannot focus our resources effectively. Thus, having the right idea of the capabilities of the adversary can allow an organisation or individual to plan out effective measures to dealing with vulnerabilities and reduce the threat surface. For example, if you assumed unrealistic assumptions, \(like assuming the adversary has the ability to physically access your data storage site, or your computer\) can allow for useless allocation of resources and unnecessary overhead.
 
-3. **Mechanism** -
+3. **Mechanism** - Try to make sure that software and hardware follows the policy as long as threat model is followed. This means that things like the loss of availability should not be caused from internal factors, or a break down of integerity due to internal politics in an organisational setting.
+
+_**Often times these security models are hard to create looking forward but easy in retrospect. Thus similar to budgeting models, a business should iteratively modify these aspects with time.   **_
+
+
+
+Now that you have a high level overview 
+
+
+
+
+
+
+
+
 
 
 
